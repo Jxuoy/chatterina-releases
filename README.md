@@ -1,12 +1,6 @@
-# Chatterina — Downloads
+# Chatterina
 
-Native Twitch-Chat für Windows.
+Windows-Download: **[Releases](https://github.com/Jxuoy/chatterina-releases/releases)**  
+→ nur **`Chatterina.Installer.exe`**
 
-## Installieren
-
-Nur **`Chatterina.Installer.exe`** aus den [Releases](https://github.com/Jxuoy/chatterina-releases/releases) laden und starten.
-
-- Die Links **„Source code (zip)“ / „Source code (tar.gz)“** kannst du ignorieren (GitHub-Standard, nicht die App).
-- `chatterina-windows.zip` ist nur Portable / für Auto-Updates.
-
-Quellcode der App ist privat.
+Quellcode ist privat. Die GitHub-Links „Source code“ bitte ignorieren.
