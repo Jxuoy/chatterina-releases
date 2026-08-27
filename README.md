@@ -1,15 +1,15 @@
 # Chatterina
 
-Windows-Download: **[Releases](https://github.com/Jxuoy/chatterina-releases/releases)**
+Windows download: **[Releases](https://github.com/Jxuoy/chatterina-releases/releases)**
 
-## Installieren
+## Install
 
-1. **`Chatterina.Installer.exe`** laden (Dateiname immer gleich lassen)
-2. Falls Windows warnt („Windows protected your PC“):
-   - **More info** / **Weitere Informationen**
-   - **Run anyway** / **Trotzdem ausführen**
-3. Installer durchklicken → fertig (Startmenü / Desktop)
+1. Download **`Chatterina.Installer.exe`** (keep this filename)
+2. If Windows warns (“Windows protected your PC”):
+   - **More info**
+   - **Run anyway**
+3. Click through the installer → done (Start Menu / Desktop)
 
-Das ist normal bei neuer Software ohne Millionen Downloads — genauso wie bei vielen anderen Desktop-Apps am Anfang. Mit der Zeit baut Windows Vertrauen auf.
+This is normal for new software without millions of downloads — same as many other desktop apps early on. Over time Windows builds trust.
 
-Die Links „Source code“ auf der Release-Seite ignorieren.
+Ignore the “Source code” links on the release page.
