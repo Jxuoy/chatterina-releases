@@ -1,6 +1,7 @@
 # Chatterina
 
-Windows download: **[Releases](https://github.com/Jxuoy/chatterina-releases/releases)**
+**Website:** https://chatterina.jxuoy.xyz  
+**Download:** [Releases](https://github.com/Jxuoy/chatterina-releases/releases)
 
 ## Install
 
@@ -10,6 +11,10 @@ Windows download: **[Releases](https://github.com/Jxuoy/chatterina-releases/rele
    - **Run anyway**
 3. Click through the installer → done (Start Menu / Desktop)
 
-This is normal for new software without millions of downloads — same as many other desktop apps early on. Over time Windows builds trust.
+## Legal
 
-Ignore the “Source code” links on the release page.
+- [Imprint](IMPRINT.md) · website: https://chatterina.jxuoy.xyz/impressum.html
+- [Privacy](PRIVACY.md) · website: https://chatterina.jxuoy.xyz/datenschutz.html
+- [License (MIT)](LICENSE)
+
+Ignore the “Source code” links on the release page — app source is private.
